@@ -10,7 +10,7 @@
     <genericsetup:registerProfile
         name="default"
         title="Dygraphs Javascript Library"
-        directory="profile"
+        directory="profiles/default"
         description="Provides Dygraphs Javascript Library for use in Plone" 
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
